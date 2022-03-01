@@ -1,0 +1,11 @@
+.cell {
+  width: 5px;
+  height: 5px;
+}
+
+.dead {
+  background-color: black;
+}
+.alive {
+  background-color: orange;
+}

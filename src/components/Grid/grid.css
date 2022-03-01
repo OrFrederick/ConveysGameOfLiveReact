@@ -1,0 +1,11 @@
+.rows {
+}
+.grid {
+  width: auto;
+  margin-left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.grid-table {
+  border-spacing: 0 0;
+}
